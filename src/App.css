@@ -77,3 +77,14 @@ i:hover {
    font-weight: 500;
    font-size: 18px;
  }
+
+
+ @media only screen and (max-width: 600px) {
+  .card{
+    width: 80vw;
+    height: 70vh;
+  }
+  .fa-2x { 
+    font-size: 1.5em;
+  }
+}
