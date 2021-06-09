@@ -4,7 +4,12 @@
   align-items: center;
   margin-top: 5rem;
   font-family: 'Poppins', sans-serif;
+  flex-direction: column;
+}
 
+.made-by{
+  color: gray;
+  margin-top: 2rem;
 }
 
 .card{
